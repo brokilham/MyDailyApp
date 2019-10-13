@@ -1,0 +1,9 @@
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\bin\Debug\MyDailyApp.exe.config
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\bin\Debug\MyDailyApp.exe
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\bin\Debug\MyDailyApp.pdb
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.csprojAssemblyReference.cache
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.Properties.Resources.resources
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.csproj.GenerateResource.cache
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.csproj.CoreCompileInputs.cache
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.exe
+D:\Belajar Hal Baru\SourceCode\Net\MyDailyApp\MyDailyApp\obj\Debug\MyDailyApp.pdb
